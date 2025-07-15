@@ -1,7 +1,7 @@
 {
   "name": "MoonTV",
-  "short_name": "MoonTV",
-  "description": "影视聚合",
+  "short_name": "WSTV",
+  "description": "万顺影视",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
